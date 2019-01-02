@@ -44,8 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Being.cs" />
+    <Compile Include="Environment.cs" />
+    <Compile Include="Object.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sense.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
